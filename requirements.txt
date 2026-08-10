@@ -1,0 +1,7 @@
+streamlit==1.60.0
+openai
+requests
+python-dotenv
+pandas
+numpy
+PyPDF2
