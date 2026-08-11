@@ -192,6 +192,76 @@ Career DNA
 Career Readiness
    ↓
 Skill Gaps
+
+---
+
+# 💼 2. Resume project description
+
+Use this in your resume:
+
+> **CareerPilot AI – AI Career Intelligence Platform**  
+> Developed and deployed an AI-powered career intelligence platform that integrates LinkedIn optimization, resume analysis, ATS scoring, GitHub intelligence, career consistency, roadmap generation, AI career coaching, and Career DNA-based readiness scoring into a unified career improvement workflow using Python, Streamlit and LLM APIs.
+
+### Short version
+
+> Built and deployed an AI career intelligence platform combining LinkedIn, Resume, GitHub, ATS, Career Roadmap and AI Career Coach modules with a unified Career Readiness Engine.
+
+---
+
+# 💙 3. LinkedIn launch post
+
+Use this:
+
+```text
+🚀 Excited to Launch My AI Project — CareerPilot AI
+
+I’m happy to share a project I’ve been building:
+
+🚀 CareerPilot AI — AI Career Intelligence Platform
+
+CareerPilot AI is designed to help students and aspiring professionals understand and improve their career readiness from one platform.
+
+Instead of treating Resume, LinkedIn, GitHub and career planning as separate activities, I built a unified workflow that connects them together.
+
+✨ Key Features:
+
+👤 LinkedIn Profile Optimizer
+📄 Resume Analyzer
+🎯 ATS Checker
+💻 GitHub Intelligence
+🔗 Career Consistency Analyzer
+✍️ LinkedIn Post Generator
+🗺️ Career Roadmap
+🤖 AI Career Coach
+🧠 Career Intelligence / Career DNA
+📊 Career Readiness Score
+⚡ AI Action Center
+
+One of the core ideas behind CareerPilot is:
+
+Analyze → Diagnose → Act → Re-analyze → Improve
+
+The Career Intelligence engine combines multiple career signals and identifies the user's biggest gaps, priority actions and next steps.
+
+🛠️ Built using:
+
+Python
+Streamlit
+LLM APIs
+OpenRouter
+GitHub APIs
+PDF Processing
+Custom UI/UX
+
+☁️ The application is now deployed and accessible online.
+
+This project helped me understand much more than just AI integration — including application architecture, API integration, state management, UI design, deployment, security and building an end-to-end AI product.
+
+Special thanks to everyone who supported me during the development journey.
+
+I’m excited to continue improving CareerPilot AI. 🚀
+
+#AI #ArtificialIntelligence #MachineLearning #Python #Streamlit #GenerativeAI #AIML #SoftwareDevelopment #StudentDeveloper #CareerTech #BuildInPublic
    ↓
 Priority Actions
    ↓
